@@ -44,5 +44,4 @@ function parseInt(string) {
 
    result += currentNumber;
    return result;
- // TODO: it's your task now
 }
